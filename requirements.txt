@@ -5,5 +5,4 @@ pandas
 Pillow
 google-generativeai
 python-dotenv
-opencv-python
--y libgl1-mesa-glx
+opencv-python-headless
