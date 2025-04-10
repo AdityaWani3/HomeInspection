@@ -4,3 +4,4 @@ plotly
 pandas
 Pillow
 google-generativeai
+python-dotenv
