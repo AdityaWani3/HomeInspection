@@ -41,8 +41,8 @@
             "recommendation": "Clear debris and connect overflow to stormwater."
         },
         {
-            "area": "Internal Walls",
-            "mediaReference": "IMG_4455.jpeg",
+            "area": "Exterior Walls",
+            "mediaReference": "IMG_4456.jpeg",
             "timestamp": null,
             "condition": "Wall - Minor Damage",
             "complianceStatus": "Non-compliant",
@@ -51,213 +51,183 @@
             ],
             "referenceDoc": "ABCB Housing Provisions",
             "referenceSection": "5.6.8",
-            "recommendation": "Repair the damaged section of the wall."
+            "recommendation": "Repair or replace damaged sections of wall."
         },
         {
             "area": "Garage",
             "mediaReference": "IMG_4456.jpeg",
             "timestamp": null,
-            "condition": "Drainage - Blocked",
+            "condition": "Garage Door - Damaged",
             "complianceStatus": "Non-compliant",
             "issuesFound": [
-                "Drainage system appears to be blocked."
+                "Garage door shows signs of damage."
             ],
             "referenceDoc": "ABCB Housing Provisions",
-            "referenceSection": "3.3.3",
-            "recommendation": "Clear the blockage and ensure the drainage system is functioning correctly."
+            "referenceSection": "9.2.8",
+            "recommendation": "Repair or replace damaged garage door."
         },
         {
-            "area": "Internal Walls",
-            "mediaReference": "IMG_4459.jpeg",
-            "timestamp": null,
-            "condition": "Wall - Minor Damage",
-            "complianceStatus": "Non-compliant",
-            "issuesFound": [
-                "Minor damage to wall identified."
-            ],
-            "referenceDoc": "ABCB Housing Provisions",
-            "referenceSection": "5.6.8",
-            "recommendation": "Repair the damaged section of the wall."
-        },
-        {
-            "area": "Flooring",
-            "mediaReference": "IMG_4460.jpeg",
-            "timestamp": null,
-            "condition": "Floorboards - Damaged",
-            "complianceStatus": "Non-compliant",
-            "issuesFound": [
-                "Floorboards show signs of damage."
-            ],
-            "referenceDoc": "ABCB Housing Provisions",
-            "referenceSection": "6.3",
-            "recommendation": "Repair or replace the damaged floorboards."
-        },
-        {
-            "area": "Ceiling",
-            "mediaReference": "IMG_4461.jpeg",
-            "timestamp": null,
-            "condition": "Air Conditioning Unit - Dirty",
-            "complianceStatus": "Non-compliant",
-            "issuesFound": [
-                "Air conditioning unit appears dirty."
-            ],
-            "referenceDoc": "ABCB Housing Provisions",
-            "referenceSection": "12.4",
-            "recommendation": "Clean the air conditioning unit."
-        },
-        {
-            "area": "Windows",
-            "mediaReference": "IMG_4462.jpeg",
-            "timestamp": null,
-            "condition": "Windows - Dirty",
-            "complianceStatus": "Non-compliant",
-            "issuesFound": [
-                "Windows are dirty."
-            ],
-            "referenceDoc": "ABCB Housing Provisions",
-            "referenceSection": "8.2",
-            "recommendation": "Clean the windows."
-        },
-        {
-            "area": "Ceiling",
+            "area": "Exterior",
             "mediaReference": "IMG_4480.jpeg",
             "timestamp": null,
-            "condition": "Light Fixture - Loose",
+            "condition": "Fence - Damaged",
             "complianceStatus": "Non-compliant",
             "issuesFound": [
-                "Light fixture appears loose."
+                "Fencing at the rear of the property has deteriorated and cracked."
             ],
             "referenceDoc": "ABCB Housing Provisions",
-            "referenceSection": "10.5.2",
-            "recommendation": "Secure the light fixture."
+            "referenceSection": "Part 5.6, 5.6.4",
+            "recommendation": "A licensed fencing contractor or qualified bricklayer should perform rectification works."
         },
         {
-            "area": "Exterior Walls",
+            "area": "Exterior",
             "mediaReference": "IMG_4481.jpeg",
             "timestamp": null,
             "condition": "Conditions Conducive to Termites",
             "complianceStatus": "Non-compliant",
             "issuesFound": [
-                "Debris and other materials present near the wall."
+                "Debris and soil present near the fence."
             ],
             "referenceDoc": "ABCB Housing Provisions",
             "referenceSection": "3.4.1",
-            "recommendation": "Remove debris and ensure adequate clearance from the wall."
+            "recommendation": "Clear debris and ensure adequate drainage."
         },
         {
-            "area": "Drainage",
+            "area": "Exterior",
             "mediaReference": "IMG_4482.jpeg",
             "timestamp": null,
-            "condition": "Drainage - Blocked",
+            "condition": "Drainage - Debris",
             "complianceStatus": "Non-compliant",
             "issuesFound": [
-                "Drainage system appears to be blocked."
+                "Debris present in the drainage system."
             ],
             "referenceDoc": "ABCB Housing Provisions",
             "referenceSection": "3.3.3",
-            "recommendation": "Clear the blockage and ensure the drainage system is functioning correctly."
+            "recommendation": "Clear debris from drainage system."
         },
         {
             "area": "Exterior Walls",
-            "mediaReference": "IMG_4483.jpeg",
-            "timestamp": null,
-            "condition": "Pest Infestation",
+            "mediaReference": "IMG_4483.jpeg, home_inspection.mp4 (0:33-0:46)",
+            "timestamp": "0:33-0:46",
+            "condition": "Evidence of pest infestation",
             "complianceStatus": "Non-compliant",
             "issuesFound": [
-                "Possible pest infestation identified."
+                "Evidence of pest infestation identified."
             ],
             "referenceDoc": "ABCB Housing Provisions",
             "referenceSection": "3.4.1",
-            "recommendation": "Consult a pest control professional for a thorough inspection and treatment."
+            "recommendation": "Engage a pest control professional for a thorough inspection and treatment."
         },
         {
             "area": "Exterior Walls",
-            "mediaReference": "IMG_4484.jpeg, IMG_4485.jpeg",
-            "timestamp": null,
+            "mediaReference": "IMG_4484.jpeg, home_inspection.mp4 (0:33-0:46)",
+            "timestamp": "0:33-0:46",
             "condition": "Conditions Conducive to Termites",
             "complianceStatus": "Non-compliant",
             "issuesFound": [
-                "Vegetation present near the vents."
+                "Debris and vegetation present near vent."
             ],
             "referenceDoc": "ABCB Housing Provisions",
             "referenceSection": "3.4.1",
-            "recommendation": "Remove vegetation and ensure adequate clearance from the vents."
+            "recommendation": "Clear debris and vegetation from around vents."
+        },
+        {
+            "area": "Exterior Walls",
+            "mediaReference": "IMG_4485.jpeg, home_inspection.mp4 (0:33-0:46)",
+            "timestamp": "0:33-0:46",
+            "condition": "Conditions Conducive to Termites",
+            "complianceStatus": "Non-compliant",
+            "issuesFound": [
+                "Vegetation present near window frame."
+            ],
+            "referenceDoc": "ABCB Housing Provisions",
+            "referenceSection": "3.4.1",
+            "recommendation": "Remove vegetation from around window frame."
         },
         {
             "area": "Exterior",
             "mediaReference": "IMG_4486.jpeg",
             "timestamp": null,
-            "condition": "Air Conditioning Unit - Dirty",
+            "condition": "Air Conditioning Unit - Damaged",
             "complianceStatus": "Non-compliant",
             "issuesFound": [
-                "Air conditioning unit appears dirty."
+                "Air conditioning unit shows signs of damage and discolouration."
             ],
             "referenceDoc": "ABCB Housing Provisions",
             "referenceSection": "12.4",
-            "recommendation": "Clean the air conditioning unit."
+            "recommendation": "Repair or replace damaged air conditioning unit."
         },
         {
             "area": "Exterior",
-            "mediaReference": "IMG_4486.jpeg",
+            "mediaReference": "IMG_4487.jpeg",
             "timestamp": null,
             "condition": "Conditions Conducive to Termites",
             "complianceStatus": "Non-compliant",
             "issuesFound": [
-                "Debris and other materials present near the air conditioning unit."
+                "Evidence of decaying wood and debris present."
             ],
             "referenceDoc": "ABCB Housing Provisions",
             "referenceSection": "3.4.1",
-            "recommendation": "Remove debris and ensure adequate clearance from the air conditioning unit."
+            "recommendation": "Remove debris and decaying wood to prevent termite attraction."
         }
     ],
     "executiveSummary": {
-        "overallCondition": "Requires attention",
+        "overallCondition": "Requires significant maintenance and repairs",
         "criticalIssues": [
+            "Evidence of pest infestation",
             "Inadequate subfloor ventilation",
             "Deteriorated mortar in exterior brickwork",
-            "Conditions conducive to termites",
-            "Pest infestation"
+            "Conditions conducive to termites"
         ],
         "recommendedActions": [
             "Engage a pest control professional for a thorough inspection and treatment.",
             "Address contributing factors such as debris near weep holes and untreated timber in contact with soil.",
-            "Repair deteriorated mortar and ensure adequate drainage.",
-            "Remove vegetation near vents and ensure adequate clearance."
+            "Repair or replace damaged sections of wall and garage door.",
+            "Repair or replace deteriorated mortar.",
+            "Repair or replace damaged fence.",
+            "Clear debris from drainage system.",
+            "Remove vegetation from around vents and window frame.",
+            "Repair or replace damaged air conditioning unit."
         ]
     },
     "maintenanceNotes": {
         "recurringIssues": [
-            "Blocked drainage",
-            "Dirty air conditioning unit",
-            "Dirty windows"
+            "Debris in drainage system",
+            "Vegetation near vents and window frames",
+            "Deteriorated mortar"
         ],
         "preventiveRecommendations": [
-            "Regular cleaning of drainage systems.",
-            "Regular cleaning of air conditioning unit.",
-            "Regular cleaning of windows."
+            "Regular inspections for pest activity.",
+            "Ensure adequate subfloor ventilation and/or install a moisture barrier.",
+            "Schedule routine inspections and cleaning of roof and gutters.",
+            "Regularly inspect and maintain drainage systems.",
+            "Remove vegetation and debris from around vents and window frames."
         ],
         "maintenanceSchedule": [
             {
                 "frequency": "Annually",
                 "tasks": [
-                    "Inspect and clean subfloor vents.",
-                    "Clean air conditioning unit.",
-                    "Clean windows."
+                    "Pest inspection and treatment (if necessary).",
+                    "Gutter cleaning and inspection of downpipes.",
+                    "Check and clean subfloor vents, inspect for signs of pests.",
+                    "Inspect exterior brickwork for deteriorated mortar and repair/replace as needed.",
+                    "Inspect fence for damage and repair/replace as needed.",
+                    "Clear debris from drainage system.",
+                    "Remove vegetation from around vents and window frames."
                 ]
             },
             {
-                "frequency": "Bi-Annually",
+                "frequency": "Bi-annually",
                 "tasks": [
-                    "Inspect and clean gutters and downpipes.",
-                    "Inspect for pest activity."
+                    "Inspect air conditioning unit for damage and clean as needed."
                 ]
             }
         ],
         "costConsiderations": [
             "Cost of pest control treatment.",
-            "Cost of brickwork repair.",
+            "Cost of repairs to brickwork, fence, garage door, and air conditioning unit.",
             "Cost of additional mechanical ventilation.",
-            "Cost of window and floorboard repair."
+            "Cost of regular maintenance and cleaning."
         ]
     }
 }
