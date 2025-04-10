@@ -6,4 +6,4 @@ Pillow
 google-generativeai
 python-dotenv
 opencv-python
-libgl1-mesa-glx
+-y libgl1-mesa-glx
