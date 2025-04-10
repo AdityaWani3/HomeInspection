@@ -15,7 +15,7 @@ import time
 import json
 import google.generativeai as genai
 
-api_key = "AIzaSyA22LYGk5IOnCAktpwwySVsLAp97N6ZjNA"
+api_key = "AIzaSyBrtgnK9aaBhngeIF4sTfFsOh9o0PsQPBw"
 genai.configure(api_key=api_key)
 from pathlib import Path
 
