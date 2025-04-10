@@ -29,7 +29,7 @@ examples_path = Path(r".\Datasets\examples")
 user_path = Path(r".\Datasets\user_data")
 
 # User uploaded video of their house (concatenated into a single video)
-video_file_name = r".\Datasets\user_data\home_inspection.mp4"
+video_file_name = r"Datasets/user_data/home_inspection.mp4"
 # We upload files and store in a dictionairy by folder and subfolder
 document_dict = {
     'building_standards': {},
