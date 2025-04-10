@@ -20,13 +20,13 @@ genai.configure(api_key=api_key)
 from pathlib import Path
 
 # Australian building standards
-docs_path = Path(r".\Datasets\building_standards")
+docs_path = Path(r"Datasets/building_standards")
 
 # Professionally generated building report used to teach the LLM
-examples_path = Path(r".\Datasets\examples")
+examples_path = Path(r"/Datasets/examples")
 
 # User uploaded photos of their house
-user_path = Path(r".\Datasets\user_data")
+user_path = Path(r"Datasets/user_data")
 
 # User uploaded video of their house (concatenated into a single video)
 video_file_name = r"Datasets/user_data/home_inspection.mp4"
@@ -396,7 +396,7 @@ import base64
 from PIL import Image
 import io
 import os
-base_dir = r".\Datasets"
+base_dir = r"Datasets"
 print("Directory Exists:", os.path.exists(base_dir))
 print("Files in Directory:", os.listdir(base_dir) if os.path.exists(base_dir) else "Path Not Found")
 image_path = os.path.join(base_dir, "user_data")  
