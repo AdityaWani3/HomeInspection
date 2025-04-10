@@ -7,7 +7,7 @@ import base64
 from PIL import Image
 
 # Load the JSON response
-response_json_path = ".\\home_inspection.json"
+response_json_path = "home_inspection.json"
 if os.path.exists(response_json_path):
     with open(response_json_path, "r") as file:
         response_json = json.load(file)
@@ -86,13 +86,13 @@ for media in media_files:
     media_ref = media.get('mediaReference', 'N/A')
     st.subheader(f"Media: {media_ref}")
     if media_ref.endswith(('.jpg', '.jpeg', '.png')):
-        image_path = os.path.join(".\\Datasets\\user_data", media_ref)
+        image_path = os.path.join("Datasets/user_data", media_ref)
         if os.path.exists(image_path):
             st.image(image_path, caption=media_ref)
         else:
             st.write(f"Image not found: {media_ref}")
     elif media_ref.endswith('.mp4'):
-        video_path = os.path.join(".\\Datasets\\user_data", media_ref)
+        video_path = os.path.join("Datasets/user_data", media_ref)
         if os.path.exists(video_path):
             st.video(video_path)
         else:
