@@ -3,3 +3,4 @@ dash-loading-spinners
 plotly
 pandas
 Pillow
+google-generativeai
