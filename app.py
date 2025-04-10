@@ -94,9 +94,9 @@ print(f'Video processing complete: ' + video_file.uri)
 document_dict['user_data'][Path(video_file_name).name] = video_file
 # Load example JSON files (for in-context learning)
 example_jsons = {}
-with open(".\\Datasets\\examples\\example1\\example1.json", 'r') as f:
+with open("Datasets/examples/example1/example1.json", 'r') as f:
     example_jsons['example1'] = json.load(f)
-with open(".\\Datasets\\examples\\example2\\example2.json", 'r') as f:
+with open("Datasets/examples/example2/example2.json", 'r') as f:
     example_jsons['example2'] = json.load(f)
 # Initialise the model and cache inputs (to save money)
 cache = caching.CachedContent.create(
