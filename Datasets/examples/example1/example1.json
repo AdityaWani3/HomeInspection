@@ -1,0 +1,146 @@
+{
+    "detailedInspection": [
+        {
+            "area": "Sunroom",
+            "mediaReference": "ref1.jpg, ref2.jpg",
+            "timestamp": null,
+            "condition": "Painted surface - Peeling",
+            "complianceStatus": "Non-compliant",
+            "issuesFound": [
+                "Sections of paint found to have peeled and deteriorated."
+            ],
+            "referenceDoc": "ABCB Housing Provisions",
+            "referenceSection": "10.2.10",
+            "recommendation": "A qualified painter should be appointed to perform minor rectification works."
+        },
+        {
+            "area": "Sunroom",
+            "mediaReference": "ref3.jpg",
+            "timestamp": null,
+            "condition": "Basin tap - Loose",
+            "complianceStatus": "Non-compliant",
+            "issuesFound": [
+                "The basin tap is loose."
+            ],
+            "referenceDoc": "ABCB Housing Provisions",
+            "referenceSection": "10.4.1",
+            "recommendation": "A qualified plumber should be appointed to perform minor rectification works."
+        },
+        {
+            "area": "Sunroom",
+            "mediaReference": "ref3.jpg",
+            "timestamp": null,
+            "condition": "Basin spout - Missing",
+            "complianceStatus": "Non-compliant",
+            "issuesFound": [
+                "The basin spout is missing."
+            ],
+            "referenceDoc": "ABCB Housing Provisions",
+            "referenceSection": "10.4.1",
+            "recommendation": "A qualified plumber should be appointed to perform minor rectification works."
+        },
+        {
+            "area": "Exterior",
+            "mediaReference": "ref4.jpg",
+            "timestamp": null,
+            "condition": "Pavers - Uneven",
+            "complianceStatus": "Non-compliant",
+            "issuesFound": [
+                "Uneven pavers evident in this area."
+            ],
+            "referenceDoc": "ABCB Housing Provisions",
+            "referenceSection": "4.2.5",
+            "recommendation": "Monitor for widening or additional damage."
+        },
+        {
+            "area": "Roof Exterior",
+            "mediaReference": "ref5.jpg",
+            "timestamp": null,
+            "condition": "Roof sheets - Surface rust",
+            "complianceStatus": "Non-compliant",
+            "issuesFound": [
+                "Evidence of surface rust on roof sheets."
+            ],
+            "referenceDoc": "ABCB Housing Provisions",
+            "referenceSection": "7.2.2",
+            "recommendation": "A qualified roofer should be appointed to perform minor rectification works."
+        },
+        {
+            "area": "Exterior",
+            "mediaReference": "ref6.jpg",
+            "timestamp": null,
+            "condition": "Evidence of termite workings",
+            "complianceStatus": "Non-compliant",
+            "issuesFound": [
+                "Previous termite workings found in the area."
+            ],
+            "referenceDoc": "ABCB Housing Provisions",
+            "referenceSection": "3.4",
+            "recommendation": "Visually inspect frequently to ensure condition does not worsen."
+        },
+        {
+            "area": "Roof Exterior",
+            "mediaReference": "ref7.jpg",
+            "timestamp": null,
+            "condition": "Roof gutters - Cleaning required",
+            "complianceStatus": "Non-compliant",
+            "issuesFound": [
+                "Roof gutters require cleaning."
+            ],
+            "referenceDoc": "ABCB Housing Provisions",
+            "referenceSection": "7.4.2",
+            "recommendation": "A general handyperson should be appointed to perform cleaning."
+        },
+        {
+            "area": "Gutter",
+            "mediaReference": "ref8.jpg",
+            "timestamp": null,
+            "condition": "Incorrectly installed",
+            "complianceStatus": "Non-compliant",
+            "issuesFound": [
+                "Gutter not draining water away from the house."
+            ],
+            "referenceDoc": "ABCB Housing Provisions",
+            "referenceSection": "7.4",
+            "recommendation": "Minor rectification works should be performed."
+        },
+        {
+            "area": "Exterior",
+            "mediaReference": "ref9.jpg",
+            "timestamp": null,
+            "condition": "Conditions Conducive to Termites",
+            "complianceStatus": "Non-compliant",
+            "issuesFound": [
+                "Debris, garden beds or soil covering weep holes or vent holes.",
+                "Untreated timber in contact with soil."
+            ],
+            "referenceDoc": "ABCB Housing Provisions",
+            "referenceSection": "3.4.1, 5.7.5",
+            "recommendation": "Clear debris and connect overflow to stormwater."
+        },
+        {
+            "area": "Exterior",
+            "mediaReference": "ref10.jpg",
+            "timestamp": null,
+            "condition": "Fungal decay - Tree trunk",
+            "complianceStatus": "Non-compliant",
+            "issuesFound": [
+                "Tree trunk in a decaying state with localized damage."
+            ],
+            "referenceDoc": "ABCB Housing Provisions",
+            "referenceSection": "3.4.1",
+            "recommendation": "Monitor for potential termite attraction."
+        }
+    ],
+    "executiveSummary": {
+        "overallCondition": "Requires attention",
+        "criticalIssues": [
+            "Evidence of termite workings",
+            "Conditions conducive to termites"
+        ],
+        "recommendedActions": [
+            "Engage a pest control professional for a thorough inspection and treatment.",
+            "Address contributing factors such as debris near weep holes and untreated timber in contact with soil."
+        ]
+    }
+}

@@ -1,0 +1,208 @@
+{
+    "detailedInspection": [
+        {
+            "area": "Roof Void",
+            "mediaReference": "ref11.jpg",
+            "timestamp": null,
+            "condition": "Electrical junction box - Missing",
+            "complianceStatus": "Non-compliant",
+            "issuesFound": [
+                "Wiring in this area is not adequately protected by a junction box."
+            ],
+            "referenceDoc": "ABCB Housing Provisions",
+            "referenceSection": "Part 9.3, 9.3.2 (1)",
+            "recommendation": "Appointment of a licensed electrician to install junction boxes is highly advised."
+        },
+        {
+            "area": "Exterior Walls > Front Left",
+            "mediaReference": "ref12.jpg, ref13.jpg",
+            "timestamp": null,
+            "condition": "Brickwork - Deteriorated mortar",
+            "complianceStatus": "Non-compliant",
+            "issuesFound": [
+                "Sections of mortar in the exterior brickwork have deteriorated."
+            ],
+            "referenceDoc": "ABCB Housing Provisions",
+            "referenceSection": "5.6.4 (Mortar joints), 5.6.3 (Mortar Mixes)",
+            "recommendation": "A qualified bricklayer should repair and/or replace the deteriorated mortar."
+        },
+        {
+            "area": "Exterior Walls",
+            "mediaReference": "ref14.jpg, ref15.jpg, ref16.jpg",
+            "timestamp": null,
+            "condition": "Brickwork - Step cracking",
+            "complianceStatus": "Non-compliant",
+            "issuesFound": [
+                "Step cracking identified in brickwork due to subsidence of adjacent footings."
+            ],
+            "referenceDoc": "ABCB Housing Provisions",
+            "referenceSection": "5.6.8, Part 4.2",
+            "recommendation": "Consult a structural engineer to assess and address the cracking."
+        },
+        {
+            "area": "Front Fence",
+            "mediaReference": "ref17.jpg, ref18.jpg",
+            "timestamp": null,
+            "condition": "Brick Fence - Noticeable cracks",
+            "complianceStatus": "Non-compliant",
+            "issuesFound": [
+                "Fencing at the front of the property has deteriorated and cracked."
+            ],
+            "referenceDoc": "ABCB Housing Provisions",
+            "referenceSection": "Part 5.6, 5.6.4",
+            "recommendation": "A licensed fencing contractor or qualified bricklayer should perform rectification works."
+        },
+        {
+            "area": "Exterior Wall - Right Side",
+            "mediaReference": "ref19.jpg, ref20.jpg",
+            "timestamp": null,
+            "condition": "Vent pipe - Damaged",
+            "complianceStatus": "Non-compliant",
+            "issuesFound": [
+                "The vent pipe in this area is damaged, likely due to aging and weathering."
+            ],
+            "referenceDoc": "ABCB Housing Provisions",
+            "referenceSection": "Part 10.6",
+            "recommendation": "A licensed plumber should repair or replace the affected pipe."
+        },
+        {
+            "area": "Roof Exterior",
+            "mediaReference": "ref21.jpg, ref22.jpg",
+            "timestamp": null,
+            "condition": "Roofing Mortar - Deteriorated",
+            "complianceStatus": "Non-compliant",
+            "issuesFound": [
+                "Roofing mortar shows signs of deterioration, risking water ingress."
+            ],
+            "referenceDoc": "ABCB Housing Provisions",
+            "referenceSection": "Part 7.3",
+            "recommendation": "A roofing contractor should determine the scope of remedial work needed."
+        },
+        {
+            "area": "Garage Roof Exterior",
+            "mediaReference": "ref23.jpg, ref24.jpg",
+            "timestamp": null,
+            "condition": "Roof exterior - Rusted",
+            "complianceStatus": "Non-compliant",
+            "issuesFound": [
+                "Roof exterior has areas of rust due to pooling or standing water."
+            ],
+            "referenceDoc": "ABCB Housing Provisions",
+            "referenceSection": "7.2.2",
+            "recommendation": "A qualified roofing contractor should repair or replace the rusted sections."
+        },
+        {
+            "area": "Bathroom - Shower",
+            "mediaReference": "ref25.jpg, ref26.jpg",
+            "timestamp": null,
+            "condition": "Shower screen - Cracked",
+            "complianceStatus": "Non-compliant",
+            "issuesFound": [
+                "Shower screen is cracked, posing a potential safety hazard."
+            ],
+            "referenceDoc": "ABCB Housing Provisions",
+            "referenceSection": "10.2.32 (4)",
+            "recommendation": "A qualified glazier should repair the shower screen."
+        },
+        {
+            "area": "Dining Room",
+            "mediaReference": "ref27.jpg",
+            "timestamp": null,
+            "condition": "Floor - Bouncy",
+            "complianceStatus": "Non-compliant",
+            "issuesFound": [
+                "Internal flooring identified as bouncy, indicating loose subfloor structures."
+            ],
+            "referenceDoc": "ABCB Housing Provisions",
+            "referenceSection": "Part 6.3",
+            "recommendation": "A licensed builder should assess and repair the flooring."
+        },
+        {
+            "area": "Roof Void",
+            "mediaReference": "ref28.jpg, ref29.jpg",
+            "timestamp": null,
+            "condition": "Chemical delignification identified - Roof structures",
+            "complianceStatus": "Non-compliant",
+            "issuesFound": [
+                "Chemical delignification affects roof structures, deteriorating timber integrity."
+            ],
+            "referenceDoc": "ABCB Housing Provisions",
+            "referenceSection": "6.3.9",
+            "recommendation": "Repair or replacement of affected timber is required as soon as possible."
+        },
+        {
+            "area": "Subfloor",
+            "mediaReference": "ref30.jpg, ref31.jpg",
+            "timestamp": null,
+            "condition": "Subfloor - Inadequate Ventilation",
+            "complianceStatus": "Non-compliant",
+            "issuesFound": [
+                "Inadequate subfloor ventilation identified, risking moisture and pest activity."
+            ],
+            "referenceDoc": "ABCB Housing Provisions",
+            "referenceSection": "6.2.1",
+            "recommendation": "Ensure vents are clear, or install additional mechanical ventilation."
+        },
+        {
+            "area": "Meter Box",
+            "mediaReference": "ref32.jpg",
+            "timestamp": null,
+            "condition": "Termite Management System - Not identified",
+            "complianceStatus": "Non-compliant",
+            "issuesFound": [
+                "No evidence of a termite management system was found."
+            ],
+            "referenceDoc": "ABCB Housing Provisions",
+            "referenceSection": "Part 3.4",
+            "recommendation": "Consult a licensed timber pest technician to install a termite barrier system."
+        },
+        {
+            "area": "Roof Void",
+            "mediaReference": "ref33.jpg",
+            "timestamp": null,
+            "condition": "Roof tiles - Slippage",
+            "complianceStatus": "Non-compliant",
+            "issuesFound": [
+                "Roof tiles have slipped from their original position, risking water penetration."
+            ],
+            "referenceDoc": "ABCB Housing Provisions",
+            "referenceSection": "7.3.2",
+            "recommendation": "Replace loose or missing tiles to prevent secondary defects."
+        }
+    ],
+    "executiveSummary": {
+        "overallCondition": "Several Issues Found Requiring Attention",
+        "criticalIssues": [
+            "Step cracking in Exterior walls",
+            "Termite Management system not found",
+            "Chemical delignification identified in Roof structure"
+        ],
+        "recommendedActions": [
+            "Consult a structural engineer for cracks in brickwork",
+            "Engage a pest control professional for termite barrier installation",
+            "Consult a builder or engineer regarding the delignification issue"
+        ]
+    },
+    "maintenanceNotes": {
+        "recurringIssues": [
+            "Roof tile slippage",
+            "Inadequate subfloor ventilation",
+            "Deteriorated roofing mortar"
+        ],
+        "preventiveRecommendations": [
+            "Regular roof inspections and maintenance.",
+            "Ensure adequate subfloor ventilation and/or install a moisture barrier.",
+            "Schedule routine inspections and cleaning of roof and gutters."
+        ],
+        "maintenanceSchedule": [
+            {
+                "frequency": "Annually",
+                "tasks": [
+                    "Roof inspection and tile replacement (if necessary).",
+                    "Gutter cleaning and inspection of downpipes.",
+                    "Check and clean subfloor vents, inspect for signs of pests."
+                ]
+            }
+        ]
+    }
+}
