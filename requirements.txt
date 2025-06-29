@@ -1,8 +1,9 @@
-dash
-dash-loading-spinners
-plotly
-pandas
-Pillow
-google-generativeai
-python-dotenv
+streamlit 
+google-generativeai 
+python-dotenv 
+fastapi
+uvicorn
+python-multipart
 opencv-python-headless
+pillow
+python-docx
